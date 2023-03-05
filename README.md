@@ -4,7 +4,7 @@
 
 #### 🚧 I am currently working on a couple of things such as; LuaBlocks, DiscoverBlox, [Tiny Toad Games](https://github.com/Tiny-Toad-Games), and Lets Learn Lua!
 
-#### 📚 I am currently learning Full Stack Web Development in a 6 month bootcamp at Georgia Tech as well as the [Fennel](https://fennel-lang.org/) programming language!
+#### 📚 I am currently learning Full Stack Web Development in a 6 month bootcamp at Georgia Tech. I am also experimenting with the [Fennel](https://fennel-lang.org/) programming language!
 
 #### 📬 Reach out to me on Discord @ Dirty Dan #1258
 
