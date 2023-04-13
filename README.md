@@ -1,6 +1,6 @@
 # Howdy 👋
 
-#### 👨‍💻 I am currently working for [MELON](https://melonverse.com) as a Game Systems Engineer!
+#### 👨‍💻 I am currently working for [MELON](https://melonverse.com) as a Senior Engineer!
 
 #### 🚧 I am currently working on a couple of things such as; LuaBlocks, DiscoverBlox, [Tiny Toad Games](https://github.com/Tiny-Toad-Games), and Lets Learn Lua!
 
