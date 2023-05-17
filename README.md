@@ -1,8 +1,8 @@
 # Howdy 👋
 
-#### 👨‍💻 I am currently working for [MELON](https://melonverse.com) as a Senior Engineer!
+#### 👨‍💻 I am currently working for [Super League](https://www.superleague.com/) as a Senior Engineer!
 
-#### 🚧 I am currently working on a couple of things such as; LuaBlocks, DiscoverBlox, and [Let's Learn Lua](https://github.com/Tiny-Toad-Games)
+#### 🚧 I am currently working on a couple of things such as; LuaBlocks, DiscoverBlox, and [Let's Learn Lua](https://github.com/Lets-Learn-Lua)
 
 #### 📚 I am currently learning Full Stack Web Development in a 6 month bootcamp at Georgia Tech. I am also experimenting with the [Fennel](https://fennel-lang.org/) programming language!
 
