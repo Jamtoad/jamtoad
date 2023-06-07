@@ -1,6 +1,6 @@
 # Howdy 👋
 
-#### 👨‍💻 I am currently working for [Super League](https://www.superleague.com/) as a Senior Engineer!
+#### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as a Senior Engineer!
 
 #### 🚧 I am currently working on a couple of things such as; LuaBlocks, DiscoverBlox, and [Let's Learn Lua](https://github.com/Lets-Learn-Lua)
 
