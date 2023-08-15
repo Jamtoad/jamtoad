@@ -1,10 +1,10 @@
 # Howdy 👋
 
-#### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as a Engineering Director!
+#### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as the Engineering Director!
 
-#### 🚧 I am currently working on a few things such as; Let's Learn Lua, DiscoverBlox, and Tiny Toad Games.
+#### 🚧 I am currently working on a few things such as; Let's Learn Lua, DiscoverBlox, Tiny Toad Games, and LuaBlocks... I have too many side projects.
 
-#### 📚 I am currently learning learning candle making and just recently graduated from my 6 month coding boot camp at Georgia Tech.
+#### 📚 I am currently learning candle making, hydroponics, 3D modeling, and just recently graduated from a 6 month coding boot camp at Georgia Tech.
 
 #### 📬 Reach out to me on Discord @Jamtoad
 
