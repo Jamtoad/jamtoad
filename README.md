@@ -4,7 +4,7 @@
 
 #### 🚧 I am currently working on a few things such as; Let's Learn Lua, DiscoverBlox, Tiny Toad Games, and LuaBlocks... I have too many side projects.
 
-#### 📚 I am currently learning candle making, hydroponics, 3D modeling, and just recently graduated from a 6 month coding boot camp at Georgia Tech.
+#### 📚 I am currently learning candle making, hydroponics, 3D modeling, and just recently graduated from a 6 month full stack web development boot camp at Georgia Tech.
 
 #### 📬 Reach out to me on Discord @Jamtoad
 
