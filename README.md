@@ -2,7 +2,7 @@
 
 #### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as the Engineering Director!
 
-#### 🚧 I am currently working on a few things such as; Let's Learn Lua, DiscoverBlox, Tiny Toad Games, and LuaBlocks... I have too many side projects.
+#### 🚧 I am currently working on a few things... My brain never settles. These projects include; Let's Learn Lua, RoBounty, and DiscoverBlox!
 
 #### 📚 I am currently learning candle making, hydroponics, 3D modeling, and just recently graduated from a 6 month full stack web development boot camp at Georgia Tech.
 
