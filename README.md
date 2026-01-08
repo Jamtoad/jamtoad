@@ -68,6 +68,12 @@ return {
 
 ---
 
+<h2>📷 Photos</h2>
+
+<img src="https://github.com/user-attachments/assets/583b0b70-56d2-4f9e-8f1b-e4d29563f8b6" width="1920">
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2dba52&section=footer"/>
 </p>
