@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Howdy!👋🤠&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2dba52&text=Howdy%20👋🤠&section=header&reversal=false&textBg=false&fontColor=ffffff&fontAlignY=30&fontSize=50"/>
 </p>
 
 ---
@@ -62,4 +62,10 @@ return {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="45" height="45"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2dba52&section=footer"/>
 </p>
