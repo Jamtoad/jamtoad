@@ -12,6 +12,8 @@ return {
   ["Location"] = "Atlanta, Georgia",
   ["Job"] = "Engineering Director @ Super League",
 
+  ["Bio"] = "TODO",
+
   ["Education"] = {
     "Full Stack Flex Web Development Certficate @ Georgia Tech",
     "IT Admin Certificate @ Google"
