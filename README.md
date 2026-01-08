@@ -1,24 +1,45 @@
-# Howdy, I'm Johnathan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Howdy!👋🤠&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-#### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as the Engineering Director!
+---
 
-#### 🚧 I am currently working on a few things... My brain never settles. These projects include; Let's Learn Lua, RoBounty, and DiscoverBlox!
+# 🐸 About
+```lua
+return {
+  ["Name"] = "Johnathan Mayo",
+  ["Location"] = "Atlanta, Georgia",
+  ["Job"] = "Engineering Director @ Super League",
 
-#### 📚 I am currently learning candle making, hydroponics, 3D modeling, and just recently graduated from a 6 month full stack web development boot camp at Georgia Tech.
+  ["Education"] = {
+    "Full Stack Flex Web Development Certficate @ Georgia Tech",
+    "IT Admin Certificate @ Google"
+  },
 
-#### 📬 Reach out to me on Discord @Jamtoad
+  ["Interests"] = {
+    "Lua",
+    "Roblox",
+    "OpenResty",
+    "NGINX",
+    "Google Cloud"
+  },
 
-<!--
-**Jamtoad/jamtoad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ["Learnings"] = {
+    "Docker",
+    "Kubernetes",
+    "Self Hosting"
+  },
 
-Here are some ideas to get you started:
+  ["Hobbies"] = {
+    "Motorcyles",
+    "Rock Climing",
+    "Renovating",
+    "Film Photography",
+    "Legos!"
+  }
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧰 Toolset
