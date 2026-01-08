@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=2dba52&text=Howdy%20👋🤠&section=header&reversal=false&textBg=false&fontColor=ffffff&fontAlignY=30&fontSize=50"/>
 </p>
 
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=jamtoad)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>🐸 About</h2>
 
 ```lua
