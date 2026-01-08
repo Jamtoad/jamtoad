@@ -1,4 +1,4 @@
-# Howdy 👋
+# Howdy, I'm Johnathan 👋
 
 #### 👨‍💻 I am currently working at [Super League](https://www.superleague.com/) as the Engineering Director!
 
